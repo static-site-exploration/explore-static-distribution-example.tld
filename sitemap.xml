@@ -3,133 +3,133 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>somethingset/about/</loc>
+    <loc>somethingsetagain/about/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>somethingset/extending-this-logic/</loc>
+    <loc>somethingsetagain/extending-this-logic/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>somethingset/site-notice/</loc>
+    <loc>somethingsetagain/site-notice/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>somethingset/the-actor-is-a-gander/</loc>
+    <loc>somethingsetagain/the-actor-is-a-gander/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>somethingset/the-beach-is-a-push/</loc>
+    <loc>somethingsetagain/the-beach-is-a-push/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>somethingset/tags/actor/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>somethingset/tags/beach/</loc>
+    <loc>somethingsetagain/tags/actor/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>somethingset/tags/bookcase/</loc>
+    <loc>somethingsetagain/tags/beach/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>somethingset/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>somethingset/tags/fahrenheit/</loc>
+    <loc>somethingsetagain/tags/bookcase/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>somethingset/tags/interest/</loc>
+    <loc>somethingsetagain/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>somethingsetagain/tags/fahrenheit/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>somethingset/tags/lamb/</loc>
+    <loc>somethingsetagain/tags/interest/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>somethingset/categories/metaphorsum/</loc>
+    <loc>somethingsetagain/tags/lamb/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>somethingset/</loc>
+    <loc>somethingsetagain/categories/metaphorsum/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>somethingset/tags/nothing/</loc>
+    <loc>somethingsetagain/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>somethingset/page/</loc>
+    <loc>somethingsetagain/tags/nothing/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>somethingset/categories/post/</loc>
+    <loc>somethingsetagain/page/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>somethingset/post/</loc>
+    <loc>somethingsetagain/categories/post/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>somethingset/tags/riddles/</loc>
+    <loc>somethingsetagain/post/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>somethingset/tags/shell/</loc>
+    <loc>somethingsetagain/tags/riddles/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>somethingset/tags/snowflakes/</loc>
+    <loc>somethingsetagain/tags/shell/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>somethingset/tags/</loc>
+    <loc>somethingsetagain/tags/snowflakes/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>somethingset/tags/visitor/</loc>
+    <loc>somethingsetagain/tags/</loc>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>somethingsetagain/tags/visitor/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
