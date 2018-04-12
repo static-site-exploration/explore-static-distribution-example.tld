@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Natrium Theme</title>
-    <link>/tags/</link>
+    <link>somethingset/tags/</link>
     <description>Recent content in Tags on Natrium Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="somethingset/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Actor</title>
-      <link>/tags/actor/</link>
+      <link>somethingset/tags/actor/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/actor/</guid>
+      <guid>somethingset/tags/actor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beach</title>
-      <link>/tags/beach/</link>
+      <link>somethingset/tags/beach/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/beach/</guid>
+      <guid>somethingset/tags/beach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bookcase</title>
-      <link>/tags/bookcase/</link>
+      <link>somethingset/tags/bookcase/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/bookcase/</guid>
+      <guid>somethingset/tags/bookcase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fahrenheit</title>
-      <link>/tags/fahrenheit/</link>
+      <link>somethingset/tags/fahrenheit/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/fahrenheit/</guid>
+      <guid>somethingset/tags/fahrenheit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interest</title>
-      <link>/tags/interest/</link>
+      <link>somethingset/tags/interest/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/interest/</guid>
+      <guid>somethingset/tags/interest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lamb</title>
-      <link>/tags/lamb/</link>
+      <link>somethingset/tags/lamb/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/lamb/</guid>
+      <guid>somethingset/tags/lamb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nothing</title>
-      <link>/tags/nothing/</link>
+      <link>somethingset/tags/nothing/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/nothing/</guid>
+      <guid>somethingset/tags/nothing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Riddles</title>
-      <link>/tags/riddles/</link>
+      <link>somethingset/tags/riddles/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/riddles/</guid>
+      <guid>somethingset/tags/riddles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shell</title>
-      <link>/tags/shell/</link>
+      <link>somethingset/tags/shell/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/shell/</guid>
+      <guid>somethingset/tags/shell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snowflakes</title>
-      <link>/tags/snowflakes/</link>
+      <link>somethingset/tags/snowflakes/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/snowflakes/</guid>
+      <guid>somethingset/tags/snowflakes/</guid>
       <description></description>
     </item>
     
